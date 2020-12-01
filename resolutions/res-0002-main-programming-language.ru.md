@@ -21,5 +21,5 @@
 
 ## Ссылки
 
-- [VIS-0002: Rust features](../visions/vis-0002-rust-features.ru.md)
+- [VIS-0002: Особенности языка программирования Rust](../visions/vis-0002-rust-features.ru.md)
 - [Что делает Rust универсальным языком программирования](https://habr.com/ru/post/504622/)
