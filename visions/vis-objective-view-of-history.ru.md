@@ -10,4 +10,4 @@
 
 ## Ссылки
 
-- [Видение: Способ производства 1.0](vis-mode-of-production.md)
+- [Видение: Способ производства 1.0](vis-mode-of-production.ru.md)
