@@ -6,5 +6,5 @@
 
 ## Ссылки
 
-- [RES-0003: Уровни квалификации разработчика](res-0003-developer-skill-levels.ru.md)
-- [RES-0005: Рассчет зарплаты](res-0005-payroll.ru.md)
+- [Правило: Уровни квалификации разработчика 1.0](rul-developer-skill-levels.ru.md)
+- [Правило: Рассчет зарплаты 1.0](rul-payroll.ru.md)

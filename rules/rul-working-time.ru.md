@@ -27,4 +27,4 @@
 
 ## Ссылки
 
-- [RES-0003: Уровни квалификации разработчика](res-0003-developer-skill-levels.ru.md)
+- [Правило: Уровни квалификации разработчика 1.0](rul-developer-skill-levels.ru.md)

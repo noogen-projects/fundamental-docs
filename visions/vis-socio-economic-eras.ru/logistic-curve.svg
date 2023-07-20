@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="185.82253mm"
+   height="164.57228mm"
+   viewBox="0 0 185.82253 164.57228"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logistic-curve.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path878"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path878-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1717092"
+     inkscape:cx="257.3164"
+     inkscape:cy="338.39454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     inkscape:pagecheckerboard="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.733832,-86.177464)">
+    <path
+       id="path64"
+       d="m 3.5438454,228.01253 5.9469778,-0.20002 3.2438048,-0.13343 3.243803,-0.23331 3.243804,-0.26674 3.243806,-0.36677 3.243805,-0.50013 3.243804,-0.66685 3.243806,-0.90026 3.243813,-1.16698 3.243798,-1.56709 3.243814,-2.00053 c 1.105837,-0.76689 2.187107,-1.63378 3.243798,-2.56737 1.105844,-1.00027 2.187115,-2.10056 3.243811,-3.26756 1.105847,-1.26701 2.18711,-2.63403 3.243806,-4.06777 1.105844,-1.56707 2.187109,-3.20085 3.243806,-4.96799 1.105844,-1.83385 2.187109,-3.80103 3.243805,-5.83493 l 3.243806,-6.63511 3.243806,-7.30199 3.243806,-7.70208 2.162541,-5.16808 3.243805,-7.60205 3.243806,-7.10194 3.243806,-6.40172 c 1.056696,-1.93387 2.137967,-3.80104 3.243806,-5.53483 1.056696,-1.66713 2.137961,-3.20087 3.243806,-4.66793 1.056696,-1.36705 2.137966,-2.63406 3.243806,-3.76769 1.056696,-1.13363 2.137958,-2.13391 3.243803,-3.03415 1.056699,-0.90024 2.162543,-1.66713 3.243813,-2.40067 l 3.243799,-1.83382 3.243814,-1.40037 3.24381,-1.06697 3.2438,-0.8002 3.2438,-0.63351 3.24381,-0.43346 3.24381,-0.36677 3.2438,-0.23331 3.24381,-0.20002 2.70317,-0.10014 4.86572,-0.16673"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#0000be;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M -3.1258843,230.32727 H 161.51215"
+       id="path867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="M 0.57828472,234.03146 V 113.76038"
+       id="path867-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.57639"
+       y="241.86583"
+       id="text2559"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999"><tspan
+         sodipodi:role="line"
+         id="tspan2557"
+         x="141.57639"
+         y="241.86583"
+         style="font-size:7.05556px;stroke-width:0.264583">Время</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:37.946;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-148.79166"
+       y="-7.6961651"
+       id="text2559-2"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999"><tspan
+         x="-148.79166"
+         y="-7.6961651"
+         id="tspan26287"><tspan
+           style="font-size:7.05556px;line-height:1;text-align:center;text-anchor:middle"
+           id="tspan26285">Параметр</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 68.117341,181.12027 0.06556,48.74427"
+       id="path2619-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.911148"
+       y="97.222664"
+       id="text2676"><tspan
+         sodipodi:role="line"
+         x="74.911148"
+         y="97.222664"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2678">S-образная (логистическая) кривая развития</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 162.10779,122.3824 1.0782384,122.448"
+       id="path2619-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.44741"
+       y="119.48289"
+       id="text2559-6-2"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999"><tspan
+         sodipodi:role="line"
+         x="109.44741"
+         y="119.48289"
+         style="font-size:4.93889px;line-height:1.32292px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2660-7">Линия насыщения</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.096939"
+       y="241.10797"
+       id="text2559-6-2-3"
+       inkscape:export-filename="/home/xx/data/org/noogen/rules/visions/vis-0003-socio--economic-eras.ru/path64.png"
+       inkscape:export-xdpi="300.07999"
+       inkscape:export-ydpi="300.07999"><tspan
+         sodipodi:role="line"
+         x="68.096939"
+         y="241.10797"
+         style="font-size:4.93889px;line-height:1.32292px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan2660-7-6">Точка перегиба</tspan></text>
+  </g>
+</svg>
